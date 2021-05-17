@@ -1,1 +1,6 @@
 ffmpeg
+gcc
+build-essential
+linux-libc-dev
+libc6-dev
+python3-llvmlite
